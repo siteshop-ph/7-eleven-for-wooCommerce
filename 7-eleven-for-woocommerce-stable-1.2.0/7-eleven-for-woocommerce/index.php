@@ -2,7 +2,7 @@
 /*
 	Plugin Name: 7-ELEVEN For WooCommerce
 	Plugin URI: https://github.com/siteshop-ph?tab=repositories
-	Description: 7-ELEVEN (7-CONNECT Payment Gateway) for accepting Over-The-Counter Cash Payments in the Philippines. Because credit card and banking penetration is too low ; 7-ELEVEN makes accessible payment options to the masses! <strong>This plugin require a 7-CONNECT Merchant Account to order <a href="http://7-connect.philseven.com/merchants/" target="_blank">Here</a></strong> ; 
+	Description: 7-ELEVEN (7-CONNECT Payment Gateway) for accepting Over-The-Counter Cash Payments in the Philippines. Because credit card and banking penetration is too low ; 7-ELEVEN makes accessible payment options to the masses! This plugin require a 7-CONNECT Merchant Account to order <a href="http://7-connect.philseven.com/merchants/" target="_blank">Here</a> ; 
 	Version: 1.2.0
 	Author: Serge Frankin SiteShop.ph (Netpublica.com Corp.)
 */ 
